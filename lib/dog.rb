@@ -6,10 +6,10 @@ class Dog
   end
 
   def name
-    @this_dogs_name 
+    @this_dogs_name
   end
 
-  def self.bark 
+  def self.bark
     puts "Woof!"
-  end 
+  end
 end
